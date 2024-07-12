@@ -1,36 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyunsu%20Bae&fontSize=90)
 
 
-<h3 align="center">:Tiger: Tech Stack ::</h3> <p align="center">
-<!-- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp -->
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Bae%20Hyunsu&fontColor=F3EDC0&fontAlign=50)
+
+
+<h3 align="center">:smile Tech Stack :smile</h3> 
+
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/NASA-E03C31?style=flat-square&logo=NASA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=NASA&logoColor=white"/></a>&nbsp
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=NASA&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=NASA&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=NASA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/NASA-E03C31?style=flat-square&logo=NASA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/></a>&nbsp
 
-<!-- <br> -->
-<!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp -->
-<!-- <img src="https://img.shields.io/badge/React Hook-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp -->
 <br>
 
-
-<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp
-<!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
-<br> -->
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
-<!-- <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
 
 </p>
- <br> <p align="center">
+
+<br> <p align="center">
 <a href="https://github.com/Baehyunsu20"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baehyunsu20&layout=compact&theme=nord&hide_border=true" /></a>
 <!-- <a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=elsa-kim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> -->
 </p>
-!--
+<!--
 https://simpleicons.org/?q=mongo
---
+-- -->
