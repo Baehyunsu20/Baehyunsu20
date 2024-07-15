@@ -14,14 +14,14 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 </p>
 
 
 
 <br><p align="center">
 <a href="https://github.com/Baehyunsu20"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baehyunsu20&layout=compact&theme=nord&hide_border=true" /></a>
-
-![](./.github/workflows/profile-green-animate.svg)
 
 
 Baehyunsu20\.github\workflows\profile-3d.yml
