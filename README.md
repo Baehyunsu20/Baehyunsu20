@@ -23,3 +23,5 @@
 <!--
 https://simpleicons.org/?q=mongo
 -- -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
